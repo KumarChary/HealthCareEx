@@ -21,7 +21,8 @@
                             <label for="id">ID</label>
                         </div>
                         <div class="col-4">
-                            <input type="text" th:field="*{id}" class="form-control" readOnly/>
+                            <!-- <input type="text" th:field="*{id}" class="form-control" readOnly/> -->
+                            <input type="text" th:field="${specialization.id}" class="form-control" readOnly/>
                         </div>
                         <div class="col-6">
                             <span id="idError"></span>
