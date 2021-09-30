@@ -17,7 +17,7 @@ spring:
   mail:    host: smtp.gmail.com
     port: 587
     username: charynand
-    password: Ramadevi@12345
+    password: IndiaToday
     properties:
      mail:
       smtp:
