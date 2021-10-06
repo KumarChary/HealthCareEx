@@ -1,5 +1,5 @@
 server:
-  port: 80
+  port: 8081
   
 spring:
   datasource:
@@ -17,7 +17,7 @@ spring:
   mail:    host: smtp.gmail.com
     port: 587
     username: sample2025nit
-    password: xxxxxxxx
+    password: test36Abc!
     properties:
      mail:
       smtp:
